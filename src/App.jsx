@@ -2,7 +2,7 @@ import "./App.css";
 import Header from "./components/Header";
 import GameOver from "./components/GameOver";
 import GameBoard from "./components/GameBoard";
-import scoreBoard from "./components/scoreBoard";
+import ScoreBoard from "./components/ScoreBoard";
 import Controls from "./components/Controls";
 import Laser from "./components/Laser";  
 import { useState, useEffect } from "react";

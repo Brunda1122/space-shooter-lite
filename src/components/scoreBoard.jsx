@@ -1,4 +1,4 @@
-function scoreBoard({score,time}){
+function ScoreBoard({score,time}){
     return(
         <div className="Score-board">
             <div>
@@ -14,4 +14,4 @@ function scoreBoard({score,time}){
     );
 }
 
-export default scoreBoard;
+export default ScoreBoard;
